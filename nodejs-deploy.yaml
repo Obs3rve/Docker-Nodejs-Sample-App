@@ -27,6 +27,6 @@ spec:
     app: nodejs-app
   ports:
    - protocol: TCP
-     port: 3000               
+     port: 3200               
      targetPort: 8080
   type: ClusterIP
