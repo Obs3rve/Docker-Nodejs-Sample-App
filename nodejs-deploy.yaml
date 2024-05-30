@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: chinazao/nodejs:14
+        image: chinazao/nodejs:15
         ports:
         - containerPort: 8080
 ---
